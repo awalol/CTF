@@ -1,0 +1,10 @@
+# install
+python3 -m pip install -i https://pypi.org/simple/ GitHacker
+# print help info
+githacker --help
+# quick start
+githacker --url http://127.0.0.1/.git/ --output-folder result
+# brute for the name of branchs / tags
+githacker --brute --url http://127.0.0.1/.git/ --output-folder result
+# exploit multiple websites, one site per line
+githacker --brute --url-file websites.txt --output-folder result
