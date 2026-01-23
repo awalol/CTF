@@ -13,3 +13,6 @@
 [submodule "Python-dsstore"]
 	path = Python-dsstore
 	url = https://github.com/gehaxelt/Python-dsstore
+[submodule "GitHacker"]
+	path = GitHacker
+	url = https://github.com/WangYihang/GitHacker.git
