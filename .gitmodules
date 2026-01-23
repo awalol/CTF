@@ -1,3 +1,15 @@
 [submodule "sqlmap-dev"]
 	path = sqlmap-dev
 	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "dvcs-ripper"]
+	path = dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper.git
+[submodule "cyber-ranges"]
+	path = cyber-ranges
+	url = https://github.com/hominsu/cyber-ranges.git
+[submodule "SvnHack"]
+	path = SvnHack
+	url = https://github.com/rootklt/SvnHack.git
+[submodule "Python-dsstore"]
+	path = Python-dsstore
+	url = https://github.com/gehaxelt/Python-dsstore
